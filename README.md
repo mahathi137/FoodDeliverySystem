@@ -53,27 +53,6 @@ A desktop-based Food Delivery Management System developed using **Java, Java Swi
 | MySQL | Database Management |
 | SQL | Data Manipulation |
 
-## 📊 System Workflow
-
-```text
-Login
-   ↓
-View Hotels
-   ↓
-Select Hotel
-   ↓
-View Menu
-   ↓
-Add Items to Cart
-   ↓
-Place Order
-   ↓
-Delivery Person Assigned
-   ↓
-Track Order
-   ↓
-Receive Delivery
-```
 
 ## ⚙️ Setup Instructions
 
