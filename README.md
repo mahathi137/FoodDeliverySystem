@@ -104,14 +104,6 @@ A desktop-based Food Delivery Management System developed using **Java, Java Swi
 - Real-time order tracking
 - Persistent data storage using MySQL
 
-## 🔮 Future Enhancements
-
-- Online Payment Integration
-- GPS-Based Live Tracking
-- Mobile Application Support
-- AI-Based Food Recommendations
-- Analytics Dashboard
-
 ## 👨‍💻 Author
 
 **Mahathi Relangi**
